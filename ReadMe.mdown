@@ -1,19 +1,20 @@
-File Organiser
+# File Organiser
 
 This is a program written in python, which helps in organising files in any folder on the basis of file type.
 
-How to run?
+### How to run?
 You have to have python installed on your PC.
 Open Command Prompt
 Go to the file location
 Type: python file organiser.py --(location of the folder if you want to)
 Press enter
 
-Output:
+### Output:
 If you have entered any argument(folder) while running then that folder would be organised.
 Else you can modify your code , so that it runs for certain default folder.
 
-Modules used:
+### Modules used:
+
 os
 re(regex)
 sys
